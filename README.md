@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwan-khan786&label=Profile%20views&color=0e75b6&style=flat" alt="rizwan-khan786" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizwan-khan786" alt="rizwan-khan786" /></a> </p>
-
 - 🔭 I’m currently working on **Government Projects**
 
 - 🌱 I’m currently learning **NextJs and SwiftUI**
